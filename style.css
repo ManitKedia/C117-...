@@ -27,6 +27,7 @@
 {
     box-shadow: 5px 5px 5px aqua;
     font-size: 20px;
+    float: left;
 }
 
 .copy_right_footer
